@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 /__pycache__
+DCFA_dataset.rar
+*.json
+*.txt
+*.xls
